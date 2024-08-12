@@ -1,4 +1,4 @@
----
+idiom [spanish]
 id: install
 title: Install
 ---
